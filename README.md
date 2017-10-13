@@ -10,7 +10,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-pong-x
+git clone https://github.com/arthurlacoste/electron-pong-x
 # Go into the repository
 cd electron-pong-x
 # Install dependencies
